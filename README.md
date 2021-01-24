@@ -1,2 +1,3 @@
-# snake-cpp
-snake game made in c++
+### Snake Game made with c++
+
+![alt text](http://imgur.com/8KXCp3G.png)
